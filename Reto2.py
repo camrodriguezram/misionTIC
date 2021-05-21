@@ -1,3 +1,14 @@
+'''Cada estudiante candidato deberá dar su nombre y apellidos, su edad en años, el puntaje obtenido en el examen y 
+el número decimal de salarios mínimos mensuales que tiene de ingreso familiar.
+    •Presentar  un  examen  de  aptitud  académica  y  razonamiento,  calificado  en  números enteros de 0 a 100.
+    •Cálculodel porcentaje de apoyo según los siguientes criterios:
+    •Si la edad está en el rango 15 a 18 años dar 25%, de 19 a 21 años dar 15% 
+     y de 22 a 25 años dar 10%, para mayores de 25 no dar ningún apoyo por edad.
+    •Si el ingreso familiar es inferior o igual a un salario mínimo dar 30%, si 
+     es mayor a un salario  mínimo  e  inferior  o  igual  a  2  salarios  mínimos  
+     dar  20%,  si  es  mayor  a  dos salarios  mínimos  e  inferior  o  igual  a 
+     3 salarios  mínimos  dar  10%,  si  es  mayor a  tres '''
+
 nombre = input("Digite su Nombre: ")
 apellido= input("Digite su apellido: ")
 edad = int(input("Digite su edad: "))
