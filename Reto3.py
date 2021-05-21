@@ -1,3 +1,10 @@
+''' Desarrolle  un programa en lenguaje Python que le permita:
+        •Leer desde el teclado todos los datos registrados en la salida de campo.
+        •Mostrar en consola el número total de días que duró la salida de campo.
+        •Mostrar en consola cuantos días en total se tuvieron temperaturas con error, 
+         de los cuales se debe informar cuántos fueron por temperaturas menores de 5 
+         grados, cuántos fueron por temperaturas mayores de 35 grados y cuántos por ambos errores.
+'''
 #-------------------------INICIALIZACION DE VARIABLES-----------------------------
 dias = 0
 maxTotal= 0
