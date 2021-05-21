@@ -4,6 +4,8 @@
         •Mostrar en consola cuantos días en total se tuvieron temperaturas con error, 
          de los cuales se debe informar cuántos fueron por temperaturas menores de 5 
          grados, cuántos fueron por temperaturas mayores de 35 grados y cuántos por ambos errores.
+        •Mostrar en consola la temperatura media mínima y máxima, sin tener en cuenta los días en que se reportaron errores.
+        •Mostrar en consola el porcentaje de días que se reportaron errores respecto del total de días reportados.
 '''
 #-------------------------INICIALIZACION DE VARIABLES-----------------------------
 dias = 0
